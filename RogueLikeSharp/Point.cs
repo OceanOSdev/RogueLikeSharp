@@ -11,7 +11,7 @@ namespace RogueLikeSharp
     public struct Point
     {
         private int x;
-        private int y;
+        private int y; 
 
         /// <summary>
         /// Initializes a new Point.
